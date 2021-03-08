@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W23727
   title: གསུང་འབུམ། ཤེས་རབ་རྒྱལ་མཚན
   author: ''
-  volumes: {}
+  volumes:
+    25bde535dfdc4594a5d1f0b35cd262c9:
+      image_group_id: I2527
+      title: ''
+      volume_number: 1
+      total_pages: 888
